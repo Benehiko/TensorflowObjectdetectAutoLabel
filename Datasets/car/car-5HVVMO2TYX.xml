@@ -1,0 +1,26 @@
+<annotation>
+    <folder>car</folder>
+    <filename>car-5HVVMO2TYX.jpg</filename>
+    <path>/mnt/data/Software Development/GitHub/TensorflowObjectdetectAutoLabel/Datasets/car/car-5HVVMO2TYX.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>85</width>
+        <height>64</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>2</ymin>
+            <xmax>82</xmax>
+            <ymax>52</ymax>
+        </bndbox>
+    </object>
+</annotation>
