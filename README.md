@@ -30,6 +30,9 @@ Then run auto_label.py to label the sorted classes (specify the classes in CLASS
     
 After the run is complete, check the labelled images by going to [labelImg](https://github.com/tzutalin/labelImg) and selecting "Open Dir" and selecting "Change Save Dir" to the class folder under "Dataset/". This will load the generated annotations for you to verify on each image. 
 
+Please note that auto_label and object_detection_runner is not owned by me and a lot of the coding done was made by Google and [other open source contributors](https://github.com/bourdakos1/Custom-Object-Detection)
+
+I only added some extra features to generate PascalVoc xml files for each class detected.
 
 ### Sources
 
