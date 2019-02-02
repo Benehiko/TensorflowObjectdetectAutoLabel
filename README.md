@@ -45,4 +45,4 @@ Jonathan Krause, Michael Stark, Jia Deng, Li Fei-Fei
 
 ### License
 
-[Apache License 2.0]()
+[Apache License 2.0](https://github.com/Benehiko/TensorflowObjectdetectAutoLabel/blob/master/LICENSE)
